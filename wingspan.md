@@ -14,7 +14,7 @@ graph TD;
     F(Refresh the bird tray)-->GG
     GG{Are you playing Duet mode?}--no-->G
     GG--yes-->GGG
-    GGG(is the score tied?)--no-->GGGG
+    GGG{is the score tied?}--no-->GGGG
     GGG--no-->G
     GGGG(Pass the first player token to the player on second place)
     G(Pass the first player token)
