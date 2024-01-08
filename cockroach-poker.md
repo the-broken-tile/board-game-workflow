@@ -1,4 +1,4 @@
-### Cochroach Poker
+### Cockroach Poker
 [BoardGameGeek](https://boardgamegeek.com/boardgame/11971/cockroach-poker)
 
 ```mermaid
